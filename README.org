@@ -1,3 +1,12 @@
 * This
 
   Is a complete rip-off
+* Create and Checkout branch starting at:
+
+  master
+
+  (vs. HEAD)
+
+  name for new branch:
+
+  dev-remote
